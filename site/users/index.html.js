@@ -20,6 +20,11 @@ var Site = require('../_core/Site');
  * Please leave a trailing comma after your entry to avoid merge conflicts.
  */
 var logos = [
+    {
+    name: 'PRACKR',
+    img: 'Prackr.png',
+    link: 'http://prackr.com/'
+  },
   {
     name: 'Facebook',
     img: 'facebook.png',
